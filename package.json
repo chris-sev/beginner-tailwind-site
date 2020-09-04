@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/chris-on-code/beginner-tailwind-site#readme",
   "dependencies": {
-    "tailwindcss": "^1.8.0"
+    "tailwindcss": "^1.8.1"
   },
   "devDependencies": {
     "parcel-bundler": "latest",
