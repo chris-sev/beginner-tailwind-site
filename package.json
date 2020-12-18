@@ -20,11 +20,13 @@
   },
   "homepage": "https://github.com/chris-on-code/beginner-tailwind-site#readme",
   "dependencies": {
-    "tailwindcss": "^1.8.1"
+    "@tailwindcss/postcss7-compat": "^2.0.2",
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.35",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   },
   "devDependencies": {
     "parcel-bundler": "latest",
-    "postcss-modules": "latest",
-    "autoprefixer": "^9.8.6"
+    "postcss-modules": "latest"
   }
 }
